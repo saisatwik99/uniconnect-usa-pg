@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/saisatwik99/uniconnect-usa-pg/static/css/main.ff175c2e.css",
-    "main.js": "/saisatwik99/uniconnect-usa-pg/static/js/main.f99fd88d.js",
-    "index.html": "/saisatwik99/uniconnect-usa-pg/index.html",
-    "main.ff175c2e.css.map": "/saisatwik99/uniconnect-usa-pg/static/css/main.ff175c2e.css.map",
-    "main.f99fd88d.js.map": "/saisatwik99/uniconnect-usa-pg/static/js/main.f99fd88d.js.map"
+    "main.css": "/uniconnect-usa-pg/static/css/main.ff175c2e.css",
+    "main.js": "/uniconnect-usa-pg/static/js/main.67ffc27e.js",
+    "index.html": "/uniconnect-usa-pg/index.html",
+    "main.ff175c2e.css.map": "/uniconnect-usa-pg/static/css/main.ff175c2e.css.map",
+    "main.67ffc27e.js.map": "/uniconnect-usa-pg/static/js/main.67ffc27e.js.map"
   },
   "entrypoints": [
     "static/css/main.ff175c2e.css",
-    "static/js/main.f99fd88d.js"
+    "static/js/main.67ffc27e.js"
   ]
 }
