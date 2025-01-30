@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <img
-        src="https://www.uniconnectabroad.com/wp-content/uploads/2022/07/uniconnect_logo.jpg" 
+        src="https://www.stormedugo.com/Content/User/images/logo.png" 
         alt="Logo"
         className="top-right-image"
       />

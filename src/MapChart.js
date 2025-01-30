@@ -61,7 +61,7 @@ const MapChart = () => {
         projection="geoAlbersUsa"
         projectionConfig={{
           rotate: [58, 20, 3],
-          scale: 1250,
+          scale: 1200,
         }}
       >
         <ZoomableGroup>
